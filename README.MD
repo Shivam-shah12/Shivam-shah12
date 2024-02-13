@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Shivam-shah12/Shivam-shah12/blob/main/avento.gif)
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
