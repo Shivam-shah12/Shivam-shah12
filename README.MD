@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Competetive Programming , Development & Technology**
 
-- 📫 How to reach me **shivamshah1076@gmail.com**
+- 📫 How to reach me **workwithshivam15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
